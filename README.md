@@ -17,6 +17,10 @@ you can go ahead and run
 npm run start
 ```
 
+
+Then visit http://localhost:3000/
+
+
 # Available enpoints
 
 This enpoint is for populating the database
@@ -25,4 +29,5 @@ This enpoint is for populating the database
 This endpoint is for fetching all data in the database and also 
 
 2. /api/players?name=Ike
-Then visit http://localhost:3000/
+
+
